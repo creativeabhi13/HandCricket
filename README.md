@@ -7,5 +7,5 @@ The aim of this mini project is to play the “Handcricket” game against a com
 ![image](https://user-images.githubusercontent.com/76790667/153556658-a3fda34d-cb12-4cf5-926c-68ed252c006a.png)
 ![image](https://user-images.githubusercontent.com/76790667/153556671-38666e50-2065-4b73-a4bc-0732e5e7bd0d.png)
 
-Report
+Report:-
 https://drive.google.com/file/d/15oP2rPSPmErwIyZmkGb4yfc_Q_JTt5_t/view?usp=sharing
